@@ -1,2 +1,2 @@
 # Code_snippets
-Random short code snippets
+Random short,potentially helpful code snippets.
